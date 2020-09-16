@@ -1,8 +1,8 @@
 export default {
   siteTitle: 'Mason Nguyen',
-  siteUrl: 'https://www.taniarascia.com',
+  siteUrl: 'https://nhcuongng.github.io/',
   siteLogo: '/logo.png',
   description:
-    'Software engineer and open source creator. This is my digital garden.',
-  userTwitter: 'taniarascia',
+    'Tôi là lập trình viên cùi bắp 👨‍🌾 ',
+  userTwitter: 'nhcuongng',
 }

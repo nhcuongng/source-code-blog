@@ -23,7 +23,7 @@ module.exports = {
         name: 'Mason Nguyen',
         short_name: 'Mason Nguyen',
         description:
-          'Software engineer and open source creator. This is my digital garden.',
+          'Tôi là lập trình viên cùi bắp 👨‍🌾 ',
         start_url: '/',
         background_color: 'white',
         theme_color: '#5183f5',

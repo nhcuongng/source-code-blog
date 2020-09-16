@@ -51,7 +51,7 @@ export default function BlogIndex({ data }) {
               <br /> Tôi là lập trình viên cùi bắp 👨‍🌾
             </h1>
             <p>
-              Đây là blog cá nhân của tôi, nơi tôi chia sẻ những gì học được và những kinh nghiệm làm việc.
+              Đây là blog cá nhân của mình, nơi mình chia sẻ những gì học được và những kinh nghiệm làm việc.
               Mình chủ yếu làm việc với Javascript (Typescript), cụ thể là React Js và Node Js.
               {' '}Bạn có thể đọc blog của mình tại {' '}
               <Link to="/blog">đây</Link>{' '}
